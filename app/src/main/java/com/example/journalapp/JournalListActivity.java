@@ -98,7 +98,7 @@ public class JournalListActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    // get all teh posts
+    // Get all the posts
 
     @Override
     protected void onStart() {
